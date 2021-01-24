@@ -17,7 +17,9 @@ def link
 end
 
 def all_phrases
-  let phrases = mario toadstool lin
+  mario
+  toadstool
+  link
   puts mario toadstool link
   mario toadstool link
 end
